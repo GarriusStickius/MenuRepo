@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MenuTemplate/Scenes/SettingsMenu.unity
     guid: f04cde1e15547e34986fd56e7d0f4feb
+  - enabled: 1
+    path: Assets/MenuTemplate/Scenes/Quitting scene.unity
+    guid: e4586a8d321a53e4f9bc72bc2d474c18
+  - enabled: 1
+    path: Assets/MenuTemplate/Scenes/ConfirmSettings.unity
+    guid: 4864e927b732bf5418376f44df535dc1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
